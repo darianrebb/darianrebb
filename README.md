@@ -5,7 +5,7 @@
 
 ## Welcome!
 
-Currently, I'm building **My Gym Journey**, my first Swift app. It's been an exciting learning experience, and I'm passionate about creating useful tools that make a real impact. I'm learning the ins and outs of Swift and iOS development while hopefully creating something meaningful. I'm always eager to collaborate, learn from the community, and improve my craft.
+I've build **My Gym Journey**, my first Swift app. It's been an exciting learning experience, and I'm passionate about creating useful tools that make a real impact. I'm learning the ins and outs of Swift and iOS development while hopefully creating something meaningful. I'm always eager to collaborate, learn from the community, and improve my craft.
 
 <!--
 ## Hi there 👋
